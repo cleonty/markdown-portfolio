@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Italic is enclosed into stars or underscores*
+**Bold text is enclosed into double stars ot underscores**
+_You can **combine** them_
